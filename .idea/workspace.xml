@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771fdd82-ecfa-49c9-a643-f37d35aecd96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hugo_site.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/SKY10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/SKY7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/SKY8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/orchestra.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_global/footer.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_global/footer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_global/nav.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_global/nav.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index/hero.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/hero.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/styles/index.scss_a4e369375f17bb89f2019364cbe7a830.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/styles/index.scss_a4e369375f17bb89f2019364cbe7a830.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/styles/index.scss_a4e369375f17bb89f2019364cbe7a830.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/styles/index.scss_a4e369375f17bb89f2019364cbe7a830.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skymusicedu.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu.github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skymusicedu.github.io/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu.github.io/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skymusicedu.github.io/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu.github.io/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skymusicedu.github.io/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu.github.io/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skymusicedu.github.io/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu.github.io/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skymusicedu.github.io/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu.github.io/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skymusicedu.github.io/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu.github.io/tags/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/syna" beforeDir="false" afterPath="$PROJECT_DIR$/themes/syna" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/syna/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/syna/layouts/partials/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/syna/layouts/partials/helpers/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/syna/layouts/partials/helpers/image.html" afterDir="false" />
@@ -121,8 +113,8 @@
         <entry file="file://$PROJECT_DIR$/content/_index/hero.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="210">
+                <caret line="14" selection-start-line="14" selection-end-line="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -373,8 +365,8 @@
     <entry file="file://$PROJECT_DIR$/content/_index/hero.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="210">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
         </state>
