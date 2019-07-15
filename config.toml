@@ -1,13 +1,17 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Sky International Music Education"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.0"
 
 # Google Analytics tracking
 googleAnalytics = ""
+
+# publishDir
+publishDir = "skymusicedu.github.io"
+
 
 [outputs]
   home = ["HTML", "JSON"]
@@ -17,8 +21,8 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Sky 国际网络音乐教育"
+  description = "We make music education accessible and smart."
 
   [params.style]
     #background = "secondary"
@@ -46,10 +50,10 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
+    primary = "#EF135B"
     secondary = "#868e96"
-    success = "#008f54"
-    info = "#00c9dc"
+    success = "#E56399"
+    info = "#FF5990"
     warning = "#fdf314"
     danger = "#dc1200"
     light = "#f8f9fa"

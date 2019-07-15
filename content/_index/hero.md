@@ -6,29 +6,30 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "Sky Music"
+# subtitle = "国际网络音乐教育"
+subtitle = "  "
 
 [header]
-  image = "header.jpg"
+  image = "orchestra.jpg"
 
 [asset]
-  image = "logo.svg"
-  width = "500px" # optional - will default to image width
+  image = "SKY10.png"
+  width = "200px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Button"
+  text = "Bilibili"
   url = "#"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Download"
+  text = "微信公众号"
   url = "https://github.com/okkur/syna/releases"
   color = "primary"
 
 [[buttons]]
-  text = "Button"
+  text = "抖音"
   url = "#"
   color = "success"
 +++
