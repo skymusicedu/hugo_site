@@ -4,3 +4,6 @@
 [submodule "skymusicedu.github.io"]
 	path = skymusicedu.github.io
 	url = git@github.com:skymusicedu/skymusicedu.github.io.git
+[submodule "themes/syna"]
+	path = themes/syna
+	url = https://github.com/okkur/syna.git
