@@ -7,3 +7,6 @@
 [submodule "themes/syna"]
 	path = themes/syna
 	url = https://github.com/okkur/syna.git
+[submodule "skymusicedu_website"]
+	path = skymusicedu_website
+	url = https://git.dev.tencent.com/skymusicedu/skymusicedu_website.git

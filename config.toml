@@ -10,8 +10,8 @@ version = "0.15.0"
 googleAnalytics = ""
 
 # publishDir
-publishDir = "skymusicedu.github.io"
-
+# publishDir = "skymusicedu.github.io"
+publishDir = "skymusicedu_website"
 
 [outputs]
   home = ["HTML", "JSON"]
