@@ -2,32 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771fdd82-ecfa-49c9-a643-f37d35aecd96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/_index/Courses/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Courses/one_to_many.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Courses/one_to_one.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Teachers/Alei.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Teachers/Annie.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Teachers/Beibei.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Teachers/Jiaen.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Teachers/YaleMao.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Teachers/Yangyang.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/Teachers/zhuqing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skymusicedu_website" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Alei.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/YaleMao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Zhuqing.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/anni.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/beibei.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jiaen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/yangyang.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/about/content.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index/Price/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index/Price/shequn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index/Price/shitingke.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index/Price/zhengke.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index/kefu_wechat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/kefu_wechat.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/_global/copyright.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_global/copyright.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_global/nav.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_global/nav.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skymusicedu.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu.github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_global/footer.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_global/footer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index/Courses/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/archive/Courses/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index/Courses/one_to_many.md" beforeDir="false" afterPath="$PROJECT_DIR$/archive/Courses/one_to_many.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index/Courses/one_to_one.md" beforeDir="false" afterPath="$PROJECT_DIR$/archive/Courses/one_to_one.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index/Teachers/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/Teachers/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index/hero.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/hero.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index/sample-custom-fragment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/archive/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/my-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/archive/posts/my-first-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skymusicedu_website" beforeDir="false" afterPath="$PROJECT_DIR$/skymusicedu_website" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/syna" beforeDir="false" afterPath="$PROJECT_DIR$/themes/syna" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/syna/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/syna/layouts/partials/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/syna/layouts/partials/helpers/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/syna/layouts/partials/helpers/image.html" afterDir="false" />
@@ -40,12 +36,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/_index/Teachers/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -53,11 +49,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/_index/hero.md">
+        <entry file="file://$PROJECT_DIR$/content/_index/Price/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/_index/kefu_wechat.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/_global/nav.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -68,18 +88,44 @@
         <entry file="file://$PROJECT_DIR$/content/_index/contact.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="38">
+                <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/_index/index.md">
+        <entry file="file://$PROJECT_DIR$/static/images/SKY7.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/images/SKY8.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/images/SKY10.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/_global/footer.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,17 +141,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>color</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/_global/footer.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
-        <option value="$PROJECT_DIR$/content/_index/hero.md" />
         <option value="$PROJECT_DIR$/skymusicedu_website/index.html" />
-        <option value="$PROJECT_DIR$/content/_global/copyright.md" />
         <option value="$PROJECT_DIR$/content/_index/service.md" />
         <option value="$PROJECT_DIR$/content/_index/index.md" />
         <option value="$PROJECT_DIR$/content/_index/service/一对一课程.md" />
@@ -121,7 +168,19 @@
         <option value="$PROJECT_DIR$/content/_index/Teachers/Jiaen.md" />
         <option value="$PROJECT_DIR$/content/_index/Teachers/Beibei.md" />
         <option value="$PROJECT_DIR$/content/_index/Teachers/Annie.md" />
+        <option value="$PROJECT_DIR$/content/about/index.md" />
+        <option value="$PROJECT_DIR$/content/about/content.md" />
+        <option value="$PROJECT_DIR$/content/_index/Price/shequn.md" />
+        <option value="$PROJECT_DIR$/content/_index/Price/shitingke.md" />
+        <option value="$PROJECT_DIR$/content/_index/Price/index.md" />
+        <option value="$PROJECT_DIR$/content/_global/footer.md" />
+        <option value="$PROJECT_DIR$/content/_global/copyright.md" />
+        <option value="$PROJECT_DIR$/content/_index/hero.md" />
+        <option value="$PROJECT_DIR$/content/_index/contact.md" />
+        <option value="$PROJECT_DIR$/content/_index/Price/zhengke.md" />
         <option value="$PROJECT_DIR$/content/_index/Teachers/index.md" />
+        <option value="$PROJECT_DIR$/content/_index/kefu_wechat.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -136,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,14 +212,13 @@
               <item name="hugo_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo_site" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="_index" type="462c0819:PsiDirectoryNode" />
+              <item name="_global" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo_site" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="_index" type="462c0819:PsiDirectoryNode" />
-              <item name="Teachers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo_site" type="b2602c69:ProjectViewProjectNode" />
@@ -176,7 +235,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,16 +247,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/_index/service" />
-      <recent name="$PROJECT_DIR$/content/_index/service/service" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/images" />
-      <recent name="$PROJECT_DIR$/content/_index/Teachers" />
-      <recent name="$PROJECT_DIR$/content/_index/Courses" />
       <recent name="$PROJECT_DIR$/content/_index" />
+      <recent name="$PROJECT_DIR$/content/_index/Price" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/content/_index/Teachers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/archive" />
       <recent name="$PROJECT_DIR$/content/_index/service" />
+      <recent name="$PROJECT_DIR$/content/_index/service/service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,7 +276,7 @@
     <frame x="0" y="23" width="1440" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24606581" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44706723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -242,170 +301,15 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/images/header.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archetypes/default.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/posts/my-first-post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skymusicedu_website/favicon.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skymusicedu_website/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skymusicedu_website/favicon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skymusicedu_website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5400">
-          <caret line="360" selection-start-line="360" selection-end-line="360" />
-          <folding>
-            <element signature="e#1672#1680#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12056#12062#0" expanded="true" />
-            <element signature="e#13503#13510#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/images/logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/images/SKY7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/images/SKY8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/service/service.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/service/一对一课程.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/service/one_to_one.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/sample-custom-fragment.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/service/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/items/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_global/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_global/footer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_global/copyright.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_global/nav.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/Courses/index.md">
+    <entry file="file://$PROJECT_DIR$/content/_index/service/service.md" />
+    <entry file="file://$PROJECT_DIR$/content/_index/service/一对一课程.md" />
+    <entry file="file://$PROJECT_DIR$/content/_index/service/one_to_one.md" />
+    <entry file="file://$PROJECT_DIR$/content/_index/service/index.md" />
+    <entry file="file://$PROJECT_DIR$/content/_index/items/index.md" />
+    <entry file="file://$PROJECT_DIR$/archive/Courses/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
@@ -415,7 +319,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/Courses/one_to_many.md">
+    <entry file="file://$PROJECT_DIR$/archive/Courses/one_to_many.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
@@ -425,7 +329,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/Courses/one_to_one.md">
+    <entry file="file://$PROJECT_DIR$/archive/Courses/one_to_one.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
@@ -505,17 +409,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/hero.md">
+    <entry file="file://$PROJECT_DIR$/content/_index/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/contact.md">
+    <entry file="file://$PROJECT_DIR$/archive/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/关于/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -523,11 +437,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index/index.md">
+    <entry file="file://$PROJECT_DIR$/archive/about/content.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/fragments/sample-custom-fragment.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/header.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/fonts/fa-brands-400.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/fonts/fa-regular-400.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scripts/syna-main.min.7d08697560d9c911a0194673093ed24e917be39c0c6ea6ffe9bfefd7869f9f34.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_global/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index/Price/shitingke.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index/Price/shequn.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index/sample-custom-fragment.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.min.c5801db8f5f1873eec776c1a8b4f6d85bfe4d01781ecf7d3e9510b95a7b64918.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archetypes/default.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scripts/syna-hero.min.4c86bbf85a8655c22c5046df9f983a1f0a0f771915f9f447a6872a863a6714ef.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1080" selection-start-line="8" selection-start-column="1075" selection-end-line="8" selection-end-column="1080" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_global/copyright.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index/Price/zhengke.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index/hero.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           </first_editor>
           <second_editor />
         </state>
@@ -536,10 +567,76 @@
     <entry file="file://$PROJECT_DIR$/content/_index/Teachers/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index/Price/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index/contact.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_global/nav.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_global/footer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index/kefu_wechat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/SKY7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/SKY10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/SKY8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
         </state>
       </provider>
     </entry>
